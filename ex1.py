@@ -29,4 +29,4 @@ def csv_reader_gen(file_name):
 
 
 if __name__ == "__main__":
-    main()
+    main(False)

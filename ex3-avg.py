@@ -1,7 +1,7 @@
 """
 Some other ways to do this:
-len(list(company_dict)) - con is its O(N) time
-Use generator functions instead and return a count that gets incremented each iteration PLUS the 
+len(list(company_dict)) - con is it takes up O(N) memory
+Use generator functions instead and return a count that gets incremented each iteration PLUS the
 """
 
 
